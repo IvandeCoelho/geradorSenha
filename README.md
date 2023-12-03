@@ -6,10 +6,8 @@ Este é um gerador de senhas personalizadas, desenvolvido em Python utilizando a
 
 <div align="center">
 
-<a href="#-Recursos Principais">Recursos Principais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Como Utilizar">Como Utilizar</a>
-
+[**Recursos Principais**](#recursos-principais)&nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp;[**Funcionalidades**](#funcionalidades)&nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp;[**Como Utilizar**](#como-utilizar)
+    
 </div>
 
 
