@@ -67,7 +67,7 @@ tk.Checkbutton(root, text="Letras Maiúsculas", variable=check_maiusculas).place
 tk.Checkbutton(root, text="Letras Minúsculas", variable=check_minusculas).place(x=300, y=110)
 tk.Checkbutton(root, text="Símbolos", variable=check_simbolos).place(x=450, y=110)
 
-scale_tamanho = tk.Scale(root, from_=4, to=20, orient=tk.HORIZONTAL, label="Tamanho da senha")
+scale_tamanho = tk.Scale(root, from_=6, to=30, orient=tk.HORIZONTAL, label="Tamanho da senha")
 scale_tamanho.place(x=10, y=150, width=580)
 
 tk.Button(root, text="Gerar Senha", command=gerar).place(x=10,     y=220, width=186, height=40)

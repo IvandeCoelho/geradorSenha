@@ -7,7 +7,7 @@ Este é um gerador de senhas personalizadas, desenvolvido em Python utilizando a
 <div align="center">
 
 [**Recursos Principais**](#recursos-principais)&nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp;[**Funcionalidades**](#funcionalidades)&nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp;[**Como Utilizar**](#como-utilizar)
-    
+
 </div>
 
 
@@ -19,7 +19,7 @@ Este é um gerador de senhas personalizadas, desenvolvido em Python utilizando a
 
 ## Funcionalidades
 
-- **Escolha do Tamanho da Senha**: O usuário pode definir o comprimento da senha por meio de uma escala deslizante (de 4 a 20 caracteres).
+- **Escolha do Tamanho da Senha**: O usuário pode definir o comprimento da senha por meio de uma escala deslizante (de 6 a 30 caracteres).
 - **Seleção de Caracteres Específicos**: Oferece opções para incluir ou excluir números, letras maiúsculas, letras minúsculas e símbolos na senha.
 - **Cópia de Senha para a Área de Transferência**: Possibilita copiar a senha gerada para a área de transferência do sistema, facilitando o uso imediato da senha em outros contextos.
 
