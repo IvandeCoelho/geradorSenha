@@ -26,6 +26,8 @@ Este é um gerador de senhas personalizadas, desenvolvido em Python utilizando a
 ## Imagem
 <div align="center">
 <img src="https://github.com/IvandeCoelho/geradorSenha/issues/1#issue-2022386171">
+<br>
+![image](https://github.com/IvandeCoelho/geradorSenha/issues/1#issue-2022386171)
 </div>
 
 
