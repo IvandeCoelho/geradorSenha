@@ -4,6 +4,14 @@ Este é um gerador de senhas personalizadas, desenvolvido em Python utilizando a
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/IvandeCoelho/geradorSenha/blob/main/LICENSE)
 
+<div align="center">
+
+<a href="#-Recursos Principais">Recursos Principais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Como Utilizar">Como Utilizar</a>
+
+</div>
+
 
 ## Recursos Principais
 
