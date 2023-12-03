@@ -6,7 +6,7 @@ Este é um gerador de senhas personalizadas, desenvolvido em Python utilizando a
 
 <div align="center">
 
-[**Recursos Principais**](#recursos-principais)&nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp;[**Funcionalidades**](#funcionalidades)&nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp;[**Como Utilizar**](#como-utilizar)
+[**Recursos Principais**](#recursos-principais)&nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp;[**Funcionalidades**](#funcionalidades)&nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp;[**Imagem**](#imagem)&nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp;[**Como Utilizar**](#como-utilizar)
 
 </div>
 
