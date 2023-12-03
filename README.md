@@ -23,6 +23,12 @@ Este é um gerador de senhas personalizadas, desenvolvido em Python utilizando a
 - **Seleção de Caracteres Específicos**: Oferece opções para incluir ou excluir números, letras maiúsculas, letras minúsculas e símbolos na senha.
 - **Cópia de Senha para a Área de Transferência**: Possibilita copiar a senha gerada para a área de transferência do sistema, facilitando o uso imediato da senha em outros contextos.
 
+## Imagem
+<div align="center">
+![image](https://github.com/IvandeCoelho/geradorSenha/assets/47482589/2a4e91c7-9426-4b9b-8730-0bf313c58d69)
+</div>
+
+
 ### Como Utilizar
 
 1. Escolha os tipos de caracteres desejados para a senha marcando as caixas correspondentes (Números, Letras Maiúsculas, Letras Minúsculas e/ou Símbolos).
