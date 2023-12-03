@@ -2,6 +2,9 @@
 
 Este é um gerador de senhas personalizadas, desenvolvido em Python utilizando a biblioteca Tkinter para a interface gráfica. Este programa oferece a funcionalidade de gerar senhas seguras e personalizadas com base nos critérios definidos pelo usuário.
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/IvandeCoelho/geradorSenha/blob/main/LICENSE)
+
+
 ## Recursos Principais
 
 - **Personalização da Senha**: Permite ao usuário escolher o tamanho da senha e os tipos de caracteres a serem incluídos (números, letras maiúsculas, letras minúsculas e símbolos).
