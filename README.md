@@ -28,11 +28,9 @@ Este é um gerador de senhas personalizadas, desenvolvido em Python utilizando a
 <tr> 
         <td>
 <img src="https://github.com/IvandeCoelho/geradorSenha/assets/47482589/2a4e91c7-9426-4b9b-8730-0bf313c58d69">
-<small> <em> versão 01 </em></small> 
          </td>
         <td>
 <img alt="Image" src="https://github.com/user-attachments/assets/866c0b88-bd15-421a-95c7-17641ebc3798" />
-<small> <em> versão 02 </em></small> 
          </td>
     </tr>
     <tr> 
