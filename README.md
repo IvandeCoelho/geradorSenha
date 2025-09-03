@@ -25,15 +25,26 @@ Este é um gerador de senhas personalizadas, desenvolvido em Python utilizando a
 ## Imagem
 
 <div align="center">
-<h2> v1 </h2>
+
+<table>
+<tr> 
+        <td>
 <img src="https://github.com/IvandeCoelho/geradorSenha/assets/47482589/2a4e91c7-9426-4b9b-8730-0bf313c58d69">
+         </td>
+        <td>
+<img alt="Image" src="https://github.com/user-attachments/assets/866c0b88-bd15-421a-95c7-17641ebc3798" />
+         </td>
+    </tr>
+    <tr> 
+        <td>
+<img alt="Image" src="https://github.com/user-attachments/assets/19d5a06b-7fee-42ec-970b-ab943708ba95" />
+         </td>
+        <td>
+<img alt="Image" src="https://github.com/user-attachments/assets/5e71280d-58d3-4138-83b3-9ea3fbcfc46c" />
+         </td>
+    </tr>
+<table>
 
-<h2> v2 </h2>
-<img width="752" height="538" alt="Image" src="https://github.com/user-attachments/assets/19d5a06b-7fee-42ec-970b-ab943708ba95" />
-
-<img width="752" height="538" alt="Image" src="https://github.com/user-attachments/assets/5e71280d-58d3-4138-83b3-9ea3fbcfc46c" />
-
-<img width="751" height="540" alt="Image" src="https://github.com/user-attachments/assets/866c0b88-bd15-421a-95c7-17641ebc3798" />
 </div>
 
 ### Como Utilizar
